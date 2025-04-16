@@ -15,5 +15,5 @@ This repository contains a summary and presentation of the research paper that e
 
 ## 📂 Repository Contents:
 - `CC_IA2_PPT` – Slide deck summarizing the research paper
-- `Project Report` – Written overview of the key concepts, architecture, and conclusions
+- `CC_IA2 REPORT` – Written overview of the key concepts, architecture, and conclusions
 
