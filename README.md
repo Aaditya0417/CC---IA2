@@ -14,6 +14,6 @@ This repository contains a summary and presentation of the research paper that e
 - Analysis of advantages over traditional monolithic systems
 
 ## 📂 Repository Contents:
-- `PPT Presentation on the topic` – Slide deck summarizing the research paper
+- `CC_IA2_PPT` – Slide deck summarizing the research paper
 - `Project Report` – Written overview of the key concepts, architecture, and conclusions
 
